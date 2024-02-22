@@ -2,6 +2,6 @@
 
 Stream high-quality movies online. Watch latest movies and webseries. Enjoy unlimited streaming with movie-web.
 
-## Live
+## Live-Link
 👉 https://www.movie-web.click/
 
